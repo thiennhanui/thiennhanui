@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **thiennhanui/thiennhanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 Sở thích của mình là đọc sách, âm nhạc, phim ảnh và viết lách.
 
 
--->
+
